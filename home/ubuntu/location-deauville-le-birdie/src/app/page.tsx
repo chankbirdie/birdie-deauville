@@ -36,7 +36,7 @@ export default function HomePage() {
         </p>
 
         <div className="mb-6">
-          <h3 className="text-2xl font-semibold text-blue-500 mb-3">Chambres Spacieuses et Confortables</h3>
+          <h3 className="text-2xl font-semibold text-blue-500 mb-3">Les chambres</h3>
           <p className="text-gray-700 mb-2">L’appartement dispose de deux chambres :</p>
           <ul className="list-disc list-inside text-gray-700 space-y-1 pl-4">
             <li><strong>Chambre Principale :</strong> Un lit double confortable vous attend, avec des espaces de rangement pratiques pour vos affaires personnelles. Réveillez-vous en douceur avec la lumière naturelle et la promesse d’une belle journée à Deauville.</li>
@@ -91,10 +91,10 @@ export default function HomePage() {
           <ul className="list-disc list-inside text-gray-700 space-y-1 pl-4">
             <li>Plaques de cuisson</li>
             <li>Réfrigérateur</li>
-            <li>Four / Micro-ondes combiné</li>
-            <li>Cafetière (pour bien commencer la journée !)</li>
+            <li>Micro-ondes</li>
+            <li>Cafetière Nespresso (pour bien commencer la journée !)</li>
             <li>Vaisselle complète et ustensiles de cuisine</li>
-            <li>Lave-linge</li>
+            <li>Lave-vaisselle</li>
           </ul>
         </div>
 
@@ -148,8 +148,8 @@ export default function HomePage() {
         </p>
         <div className="bg-white text-gray-800 p-6 rounded-lg shadow-md max-w-md mx-auto">
           <h3 className="text-2xl font-semibold mb-4">Contactez-nous</h3>
-          <p className="text-lg mb-2">Pour toute demande de réservation ou d'information, veuillez nous envoyer un email à :</p>
-          <a href="mailto:birdie.deauville@gmail.com" className="text-xl font-bold text-blue-600 hover:underline">contact@example.com</a>
+          <p className="text-lg mb-2">Pour toute demande de réservation ou d'information, veuillez nous envoyer un email à:</p>
+          <a href="mailto:birdie.deauville@gmail.com" className="text-xl font-bold text-blue-600 hover:underline">birdie.deauville@gmail.com</a>
           <p className="text-sm mt-4 text-gray-600">Nous vous répondrons dans les plus brefs délais.</p>
         </div>
         <p className="mt-8 text-sm">Numéro d’enregistrement : 14220001706EC</p>
