@@ -150,7 +150,7 @@ export default function HomePage() {
           <h3 className="text-2xl font-semibold mb-4">Contactez-nous</h3>
           <p className="text-lg mb-2">Pour toute demande de réservation ou d'information:</p>
           <a href="mailto:birdie.deauville@gmail.com" className="text-xl font-bold text-blue-600 hover:underline">birdie.deauville@gmail.com</a>
-           <a href="mailto:birdie.deauville@gmail.com" className="text-xl font-bold text-blue-600 hover:underline">07 56 85 18 46</a>
+           <p className="text-xl font-bold text-blue-600 hover:underline">07 56 85 18 46</a>
           <p className="text-sm mt-4 text-gray-600">Nous vous répondrons dans les plus brefs délais.</p>
         </div>
         <p className="mt-8 text-sm">Numéro d’enregistrement : 14220001706EC</p>
